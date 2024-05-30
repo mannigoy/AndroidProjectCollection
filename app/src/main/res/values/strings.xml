@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidProjectCollection</string>
+
+    <string name="Activity_name">Layout Exercise</string>
+    <string name="Instagram">Instagram</string>
+    <string name="Close">Close</string>
+    <string name="Toast">Toast</string>
+    <string name="Change_Bg">Change BG</string>
+    <string name="Change_buttonBG">Change Button BG</string>
+    <string name="Disappear">Disappear</string>
+    <string name="Button_Exercise">Button Exercise</string>
+    <string name="Return">Return</string>
+    <string name="score"></string>
+    <string-array name="titles">
+        <item>Moalboal White Beach</item>
+        <item>Lambug</item>
+        <item>Panagsama</item>
+        <item>Kawasan</item>
+        <item>Cancalanog</item>
+    </string-array>
+</resources>
